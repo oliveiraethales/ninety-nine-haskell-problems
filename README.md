@@ -1,4 +1,3 @@
-ninety-nine-haskell-problems
+Solutions for the Ninety-nine Haskell problems
 ============================
-
-Ninety-nine haskell problems http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
+http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
